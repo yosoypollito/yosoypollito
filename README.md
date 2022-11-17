@@ -12,9 +12,13 @@
 
 
 ### Glad to see you here!  
-I'm a developer since I was young, My favorite language is JavaScript. I mainly use node, react and MongoDB. Currently, I'm developing my own project in typescript.
+I'm a developer since I was young, My favorite language is JavaScript.
 
-I acquire knowledge on my own, I want to keep teaching what I know and learn more things. I'm open to learn new languages and also take positions more important.
+I mainly use node, react and MongoDB. Currently, I'm developing my own project in typescript.
+
+I acquire knowledge on my own, I want to keep teaching what I know and learn more things.
+
+I'm open to learn new languages and also take positions more important.
   
   
 
