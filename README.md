@@ -20,7 +20,7 @@ I'm open to learning new languages and taking on more important positions.
 <br/>  
 
 
-## Rapidfire  
+## 🚀 About Me  
 - 🔭 Currently, I'm working on my own projects.
   
 
