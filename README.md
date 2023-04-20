@@ -7,35 +7,30 @@
 <a href="https://linkedin.com/in/devdaif" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-
-
 
 ### Glad to see you here!  
-I'm a developer since I was young, My favorite language is JavaScript.
+I've been a developer since I was young, and my favorite language is JavaScript.
 
-I mainly use node, react and MongoDB. Currently, I'm developing my own project in typescript.
+I mainly use Node.js, React, and MongoDB.
 
-I acquire knowledge on my own, I want to keep teaching what I know and learn more things.
+I acquire knowledge on my own and want to continue teaching what I know while learning more things.
 
-I'm open to learn new languages and also take positions more important.
-  
-  
+I'm open to learning new languages and taking on more important positions.  
 
 <br/>  
 
 
 ## Rapidfire  
-- 🔭 I’m currently working on learn more things and own projects  
+- 🔭 Currently, I'm working on my own projects.
   
 
-- 🌱 I’m currently learning TypeScript, Docker, Next.js  
+- 🌱 I'm currently learning Go.
   
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://daif.one)  
+- 👨‍💻 All of my projects are available on my [portfolio](https://daif.one).
   
 
-- 📫 How to reach me dev.daif@gmail.com  
+- 📫 You can reach me at dev.daif@gmail.com.
   
 
 <br/>  
